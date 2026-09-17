@@ -1,4 +1,4 @@
-# Task 1 - Hangman Game
+# Hangman Game
 
 A simple console-based Hangman game built in Python.
 
